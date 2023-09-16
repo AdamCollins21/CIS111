@@ -1,0 +1,12 @@
+ZenRows: 
+ZenRows is a web scraping library for python that prevents you from getting blocked by getting passed CAPTCHAs and using proxies. I would be Interested in using ZenRows because sometimes I will get blocked from websites because of my VPN. Hopefully this will help solve that problem. But ZenRows is a paid service so I don't know if it would be worth it to me to continue with using it.
+Selenium:
+	Selenium is used for web scaping by allowing you to scape dynamic content on the web. I would be interested in using Selenium because it is compatible with both Firefox and Google Chrome. Since it can be used with many browsers, I will not have to worry about it not working if I ever decide to switch from Firefox to Chrome. 
+Beautiful Soup
+	Beautiful Soup is used for web scraping. It can show data under a document’s format. It is used for HTML and XML files. It is great for analyzing these files. I would be interested in using Beautiful Soup if I ever want to analyze HTML or XML files. Another advantage of my using Beautiful Soup is that it has a community of support that is active and willing to help.
+Playwright
+	Playwright is used for web scraping. It can be used over many different web browsers and its purpose is to extract data from different websites. I would be willing to use this because it is open source. But the downside is that it would be very time consuming when learning how to use Playwright. So, I would probably hold off on using it until I have a solid understanding of Python.
+Scrapy
+	Scrapy is a python web scraper. It can take data from websites, even ones that are very complex. It can also get passed CAPTCHAs. This would come in handy when a CAPTCHA is preventing me from retrieving data from a website. I would be interested in using this but like Playwright it takes some time to learn. So, I would also need to have a good understanding of Python beforehand.
+Source: https://www.zenrows.com/blog/python-web-scraping-library
+
